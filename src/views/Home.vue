@@ -5,6 +5,13 @@
   </div>
 </template>
 
+<style scoped>
+img {
+  width: 25%;
+  margin: 0;
+}
+</style>
+
 <script>
 // @ is an alias to /src
 import HelloWorld from "@/components/HelloWorld.vue";
